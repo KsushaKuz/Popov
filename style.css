@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: black;
+    height: 30px;
+    
+}
+.link.header{
+    position: absolute;
+    margin-top: 24px;
+    margin-left: 20px;
+
+}
+.Game{
+    margin-left: 200px;
+}
+.soc{
+    margin-left: 127px;
+}
+.sal{
+    margin-left: 143px;
+}
